@@ -1,5 +1,5 @@
 SHEENA MAE D RAFANAN 4-A
-
+rar
 # JSON POST with Database Integration
 
 The JSON POST API endpoint facilitates the transmission of structured data from clients to a server, enabling the creation or modification of records. The request body facilitates the transmission of JSON data, rendering it versatile and conducive to seamless manipulation. After the completion of processing, the server provides an HTTP status code along with the required JSON data. This technology has the capability to facilitate user registration, data updates, and customized processes while ensuring secure authentication. It is essential to consult appropriate documentation to ascertain the necessary specifications for endpoints and the protocols for managing errors.
