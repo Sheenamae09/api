@@ -20,12 +20,12 @@ Data Access and Integration:
 
 Security: 
 
--implementS authentication and authorization mechanisms to control access and protect sensitive data and functions.
+- Implements authentication and authorization mechanisms to control access and protect sensitive data and functions.
 
 Authentication and Authorization:
 
 - Implement secure user authentication and authorization mechanisms to protect your API endpoints.
--Fine-grained access control to restrict user actions based on roles and permissions.
+- Fine-grained access control to restrict user actions based on roles and permissions.
 
 Real-time Communication:
 
@@ -39,13 +39,13 @@ Data Management:
   
 Scalability and Reliability:
 
--enable applications to scale by leveraging external services and resources, enhancing flexibility and performance.
--Redundancy and failover mechanisms to ensure uninterrupted service even in case of server failures.
+- Enable applications to scale by leveraging external services and resources, enhancing flexibility and performance.
+- Redundancy and failover mechanisms to ensure uninterrupted service even in case of server failures.
 
 Documentation and Support:
 
 - Comprehensive API documentation with detailed endpoints, request methods, and response formats.
--Dedicated customer support to assist you in API integration, issue resolution, and updates.
+- Dedicated customer support to assist you in API integration, issue resolution, and updates.
 
 Customization:
 
